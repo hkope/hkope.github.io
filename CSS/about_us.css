@@ -1,0 +1,84 @@
+p {
+  color: grey;
+  font-family:Century Gothic,arial,sans-serif;
+}
+a {
+  color: white;
+  background-color:grey;
+  font-family:Century Gothic,arial,sans-serif;
+  font-weight: lighter;
+  font-stretch: extra-expanded;
+}
+header {
+  color: white;
+  background-color:grey;
+  font-family:Century Gothic,arial,sans-serif;
+  overflow: auto;
+  text-align: center;
+}
+.wrapper {
+  width:800px;
+}
+
+h1 {
+  text-align: center;
+  font-weight: lighter;
+}
+
+.image {
+  height: 300px;
+  width: 250px;
+  float: left;
+  margin-left: -270px;
+}
+
+article {
+    clear: both;
+    overflow: hidden;
+    margin-bottom: 20px;
+    padding-left: 270px;
+    
+}
+
+.image-five {
+  width:400px;
+}
+
+
+li {
+  display: inline-block;
+  list-style: none;
+}
+
+
+.firstimage {
+  height: 100px;
+  width:150px;
+  padding: 40px;
+  border: 40px;
+  float: left;
+}
+
+.name {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  background-color:grey;
+  font-family:Century Gothic,arial,sans-serif;
+  font-weight: lighter;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: -20px
+}
+
+
+main ul {
+  display: inline;
+}
+
+main li p {
+  display: block;
+  margin-top: 60px;
+}

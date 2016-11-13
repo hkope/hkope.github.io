@@ -1,0 +1,62 @@
+*{
+  color: #000000;
+  font-family: cursive;
+  font-variant: small-caps;
+}
+.item-menu {
+  height: 870px;
+  border-style: solid;
+  width: 500px;
+}
+
+.center-txt {
+  text-align: center;
+}
+
+.company-log {
+  font-stretch: expanded;
+  font-size: 50;
+  border-color: black;
+  text-decoration: underline;
+}
+
+nav {
+width: 100%;
+ text-align: center;
+}
+nav li{
+  padding: 10px;
+  display: inline-block;
+}
+
+*{background-color: white;}
+
+p{
+  text-align: left;
+}
+
+.eats{
+  float:left;
+}
+.dranks{
+  float:right;
+}
+.happy{
+  float: left;
+}
+
+.hours{
+  border-style: ridge;border-color: black;}
+}
+
+.hr{
+  text-indent: 30%;
+}
+
+
+
+footer{
+  clear: both;
+  overflow: hidden;
+  text-align: center;
+  width: 100%;}
